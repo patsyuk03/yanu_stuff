@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/websocket_client.dir/main.cpp.o -o websocket_client  /usr/lib/x86_64-linux-gnu/libjsoncpp.so 
